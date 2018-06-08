@@ -10,10 +10,6 @@
     "icons": {
         "128": "icon128.png"
     },
-    "background": {
-        "persistent": false,
-        "scripts": ["OneSignal.js", "background.js"]
-    },
     "permissions": ["gcm", "storage", "notifications", "identity"],
     "chrome_url_overrides": {
         "newtab": "index.html"
