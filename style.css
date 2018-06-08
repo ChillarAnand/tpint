@@ -1,0 +1,17 @@
+html div {
+    font-family: Ubuntu;
+    font-size: 36pt;
+    color: black;
+}
+
+
+#quote {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 50%;
+    height: 30%;
+    margin: auto;
+}

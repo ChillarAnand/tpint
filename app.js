@@ -12,7 +12,7 @@ function showQuote() {
                     data = data.split('\n');
                     var quotesCount = data.length;
                     var randomNum = Math.floor(Math.random() * (quotesCount - 1));
-                    quote.innerHTML = data[randomNum] + randomNum + quotesCount;
+                    quote.innerHTML = data[randomNum];
                 });
             }
         )
