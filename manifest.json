@@ -1,6 +1,5 @@
 {
     "update_url": "https://clients2.google.com/service/update2/crx",
-    "content_security_policy": "script-src 'self' https://ssl.google-analytics.com https://c.amazon-adsystem.com object-src",
     "name": "Telugu Proverbs in New Tab",
     "manifest_version": 2,
     "description": "An extension which shows telugu proverbs on the new tab page.",
