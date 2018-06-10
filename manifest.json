@@ -1,10 +1,10 @@
 {
     "update_url": "https://clients2.google.com/service/update2/crx",
-    "name": "Telugu Proverbs in New Tab",
+    "name": "tpint - Telugu Proverbs In New Tab",
     "manifest_version": 2,
-    "description": "An extension which shows telugu proverbs on the new tab page.",
+    "description": "Chrome extension to shows telugu proverbs when new tab is opened.",
     "author": "Chillar Anand",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "incognito": "split",
     "icons": {
         "128": "icon128.png"
