@@ -1,4 +1,4 @@
-var quotesFile = chrome.runtime.getURL('data.txt');
+var quotesFile = chrome.runtime.getURL('telugu-proverbs.txt');
 
 
 function showQuote() {
