@@ -4,7 +4,7 @@
     "manifest_version": 2,
     "description": "Chrome extension to shows telugu proverbs when new tab is opened.",
     "author": "Chillar Anand",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "incognito": "split",
     "icons": {
         "128": "icon128.png"
