@@ -1,6 +1,6 @@
 var teluguQuotesFile = chrome.runtime.getURL('telugu-proverbs.txt');
-var englishQuotesFile = chrome.runtime.getURL('english-proverbs.txt');
-var urls = [teluguQuotesFile, englishQuotesFile]
+// var englishQuotesFile = chrome.runtime.getURL('english-proverbs.txt');
+var urls = [teluguQuotesFile]
 
 
 function showQuote() {
